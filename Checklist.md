@@ -1,4 +1,5 @@
 # Repo 3 Checklist
 - [ x ]  Colaboration meeting
-- [  ]  Gather reqirements
+- [ x ]  Gather reqirements
 - [  ]  Stakeholder buy-in
+- [  ]  Resources meeting
